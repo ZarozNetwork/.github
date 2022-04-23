@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **We also work for the IT Maintenance of a lot local bussines**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us on:</h3>
 <p align="left">
 <a href="https://twitter.com/zarozgames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zarozgames" height="30" width="40" /></a>
 <a href="https://instagram.com/@zarozgames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@zarozgames" height="30" width="40" /></a>
