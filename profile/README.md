@@ -17,7 +17,7 @@
 
 - 📄 Know about our experiences [zaroz.es](zaroz.es)
 
-- ⚡ Fun fact **We also work for the IT Maintenance of a lot local bussines**
+- ⚡ Fun fact **We also work for the IT Maintenance of local bussines**
 
 <h3 align="left">Connect with us on:</h3>
 <p align="left">
