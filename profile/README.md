@@ -3,7 +3,7 @@
 
 - 🔭 We are currently working on **Minecraft Full Custom Network**
 
-- 🌱 We use **Java, CSharp**
+- 🌱 We use **Java, C#**
 
 - 👯 We are collaborating in **Moonpie Proxy**
 
