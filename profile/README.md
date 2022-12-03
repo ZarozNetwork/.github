@@ -7,7 +7,7 @@
 
 - 👯 We are collaborating in **Moonpie Proxy**
 
-- 🤝 Looking for new developers **Talk with ianser#2260 on Discord**
+- 🤝 Looking for new developers **Talk with elremineh#6498 on Discord**
 
 - 👨‍💻 Public API [api.public.zaroz.es](api.public.zaroz.es)
 
