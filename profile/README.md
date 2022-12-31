@@ -9,11 +9,11 @@
 
 - 🤝 Looking for new developers **Talk with elremineh#6498 on Discord**
 
-- 👨‍💻 Public API [api.public.zaroz.es](api.public.zaroz.es)
+- 👨‍💻 Public API [api.zaroz.gg](api.zaroz.gg)
 
 - 📝 We regularly write articles on [devblogs.zaroz.es](devblogs.zaroz.es)
 
-- 📫 How to reach us **games@zaroz.es**
+- 📫 How to reach us **support@zaroz.es**
 
 - 📄 Know about our experiences [zaroz.es](zaroz.es)
 
