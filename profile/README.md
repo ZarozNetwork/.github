@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, We are Zaroz Games</h1>
-<h3 align="center">A group of Developers creating amazing things in the Games Industry</h3>
-
-- 🔭 We are currently working on **Minecraft Full Custom Network**
+<h1 align="center">Hi 👋, We are Zaroz Group</h1>
+<h3 align="center">A group of Developers creating amazing things</h3>
 
 - 🌱 We use **Java, C#**
 
 - 👯 We are collaborating in **Moonpie Proxy**
 
 - 🤝 Looking for new developers **Talk with elremineh#6498 on Discord**
-
-- 👨‍💻 Public API [api.zaroz.gg](api.zaroz.gg)
-
-- 📝 We regularly write articles on [devblogs.zaroz.es](devblogs.zaroz.es)
 
 - 📫 How to reach us **support@zaroz.es**
 
